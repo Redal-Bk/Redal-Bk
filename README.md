@@ -1,3 +1,4 @@
-<div align'center'>
-  <P> test </P>
-</div>
+<img src="./bk.jpg"/>
+Hi, Im Redal
+
+Im Asp.Net Full-Stack Developer 
