@@ -13,6 +13,4 @@
 <img src="./c-sharp.png" width="80" height="80"/>
 <img src="./web.png" width="80" height="80"/>
 </div>
-<h1>My Projects</h1>
-<h3>https://www.honari.com</h3>
-<h3>https://www.parsigame.com</h3>
+<h1>My Projects <h1/>
