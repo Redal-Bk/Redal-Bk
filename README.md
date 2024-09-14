@@ -9,6 +9,7 @@
 <img src="./css-3.png" width="80" height="80"/>
 <img src="./js.png" width="80" height="80"/>
 <img src="./react.png" width="80" height="80"/>
+<img src="./Nextjs.png" width="80" height="80"/>
 <img src="./sql-server.png" width="80" height="80"/>
 <img src="./c-sharp.png" width="80" height="80"/>
 <img src="./web.png" width="80" height="80"/>
