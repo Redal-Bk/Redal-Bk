@@ -12,13 +12,15 @@
 <img src="./Nextjs.png" width="80" height="80"/>
 <img src="./sql-server.png" width="80" height="80"/>
 <img src="./c-sharp.png" width="80" height="80"/>
+<img src="./EfCore.png" width="80" height="80"/>
 <img src="./web.png" width="80" height="80"/>
+
 </div>
 <div>
   <h1>My Private Projects <h1/>
   <p>https://www.honari.com</p>
 </div>
 <div>
-  <h1>Orgnazitan</h1>
+  <h1>Orgnazitan<h1/>
   <p>https://www.behinafzar.ir</p>
 </div>
